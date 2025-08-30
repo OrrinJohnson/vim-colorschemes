@@ -80,7 +80,7 @@ hi Function guifg=#afbafa
 hi Statement guifg=#e688f7
 hi Conditional guifg=#c9affa
 hi Repeat guifg=#af88f7
-hi Operator guifg=#d6d4ca
+hi Operator cterm=bold gui=bold guifg=#d6d4ca
 hi Keyword guifg=#ec6fa3
 hi Exception guifg=#c9affa
 hi PreProc guifg=#8899f7
